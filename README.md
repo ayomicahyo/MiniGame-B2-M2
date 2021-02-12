@@ -1,2 +1,2 @@
-# MiniGame-B2-M1
+# MiniGame-B2-M2
  
